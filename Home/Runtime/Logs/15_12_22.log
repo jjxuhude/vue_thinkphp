@@ -1,8 +1,0 @@
-[ 2015-12-22T09:55:25+08:00 ] 127.0.0.1 /V2/glamulet
-INFO: [ route_check ] --START--
-INFO: CheckRoute Behavior ::run [ RunTime:0.001524s ]
-INFO: [ route_check ] --END-- [ RunTime:0.001636s ]
-INFO: [ app_begin ] --START--
-INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001319s ]
-INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
-

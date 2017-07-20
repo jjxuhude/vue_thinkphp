@@ -1,3 +1,0 @@
-<?php
-//000000000000a:3:{s:8:"userInfo";a:2:{s:2:"id";s:2:"11";s:4:"name";s:6:"user11";}s:9:"sessionId";s:26:"9ra5179umnoqbr848drefa7od2";s:7:"authKey";s:32:"95b70d76b08f0936b2ce7181244e0d8b";}
-?>
