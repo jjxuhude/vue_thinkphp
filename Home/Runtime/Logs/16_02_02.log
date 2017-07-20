@@ -1,0 +1,24 @@
+[ 2016-02-02T16:51:06+08:00 ] 127.0.0.1 /V2/comment
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002312s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002470s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+
+[ 2016-02-02T16:53:11+08:00 ] 127.0.0.1 /V2/comment
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002629s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002825s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002301s ]
+
+[ 2016-02-02T16:55:00+08:00 ] 127.0.0.1 /V2/comment
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001061s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001188s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+

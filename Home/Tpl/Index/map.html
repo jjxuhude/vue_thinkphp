@@ -1,0 +1,33 @@
+<div style="display:none;height:400px;" id="jjxuhuade">
+<iframe   width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
+src="http://ditu.google.cn/maps?
+q=<?php echo('江西市肯德基')?>&amp;
+hl=zh-CN&amp;ie=UTF8&amp;sll=35.86166,104.195397&amp;
+sspn=55.128086,135.263672&amp;
+hq=<?php echo('江西市肯德基')?>&amp;
+t=m&amp;brcurrent=3,0x31508e64e5c642c1:0x951daa7c349f366f,0%3B5,0,0&amp;
+hnear=<?php echo('江西')?>&amp;
+output=embed"></iframe><br />
+</div>
+<div style="width:400px;height:400px;border:1px solid #000;overflow:auto;display:none;" id="div400">
+	<div style="width:400px;height:800px;background:red;"></div>
+</div>
+
+<script src="../Public/layer/jquery-1.9.1.js"></script>
+<script src="../Public/layer/layer.js"></script>
+<button class="btn">111</button>
+<script>
+$('.btn').click(function(){
+	var i = $.layer({
+		type : 1,
+		title : false,
+		offset:['150px' , ''],
+		border : false,
+		area : ['400px','400px'],
+		page : {dom : '#div400'}
+	});
+});
+
+
+</script>
+

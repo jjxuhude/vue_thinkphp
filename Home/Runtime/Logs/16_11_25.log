@@ -1,0 +1,26 @@
+[ 2016-11-25T18:47:56+08:00 ] 127.0.0.1 /V2/us
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002728s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003823s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003750s ]
+
+[ 2016-11-25T19:01:38+08:00 ] 127.0.0.1 /V2/glamulet
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001740s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001927s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002008s ]
+ERR: SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.glamulet.com/index.php/api/v2_soap/index/?wsdl=1' : failed to load external entity "http://www.glamulet.com/index.php/api/v2_soap/index/?wsdl=1"
+
+
+[ 2016-11-25T19:05:36+08:00 ] 127.0.0.1 /V2/glamulet
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001339s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001507s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+

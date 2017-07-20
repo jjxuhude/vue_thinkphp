@@ -1,0 +1,8 @@
+[ 2017-01-11T15:23:55+08:00 ] 127.0.0.1 /Io
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004065s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005443s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+

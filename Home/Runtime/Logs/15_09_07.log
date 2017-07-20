@@ -1,0 +1,42 @@
+[ 2015-09-07T10:52:12+08:00 ] 127.0.0.1 /V2/glamulet_vn
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001381s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001491s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+
+[ 2015-09-07T15:57:50+08:00 ] 127.0.0.1 /V2/glamulet_vn
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001958s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002125s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+ERR: Error Fetching http headers
+
+[ 2015-09-07T16:01:53+08:00 ] 127.0.0.1 /V2/glamulet_vn
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001101s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001231s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+ERR: Maximum execution time of 30 seconds exceeded
+
+[ 2015-09-07T16:51:33+08:00 ] 127.0.0.1 /V2/glamulet_vn
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.023040s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023204s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002173s ]
+
+[ 2015-09-07T16:57:42+08:00 ] 127.0.0.1 /V2/glamulet_vn
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001860s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002027s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+

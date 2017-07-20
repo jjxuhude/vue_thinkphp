@@ -1,0 +1,10 @@
+[ 2016-12-05T09:08:40+08:00 ] 127.0.0.1 /V2/coza
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002021s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002376s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001816s ]
+ERR: SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.glamulet.co.za/index.php/api/v2_soap/index/?wsdl=1' : failed to load external entity "http://www.glamulet.co.za/index.php/api/v2_soap/index/?wsdl=1"
+
+

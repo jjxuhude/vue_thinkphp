@@ -1,0 +1,51 @@
+[ 2016-08-22T10:13:05+08:00 ] 127.0.0.1 /V2/uk
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001742s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002058s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+
+[ 2016-08-22T10:24:02+08:00 ] 127.0.0.1 /V2/uk/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001620s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001868s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002592s ]
+NOTIC: [2] SoapClient::SoapClient() [<a href='soapclient.soapclient'>soapclient.soapclient</a>]: php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£  C:\wamp\www\thinkphp\Home\Lib\Action\V2Action.class.php ç¬¬ 40 è¡Œ.
+NOTIC: [2] SoapClient::SoapClient(http://schemas.xmlsoap.org/soap/encoding/) [<a href='soapclient.soapclient'>soapclient.soapclient</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£  C:\wamp\www\thinkphp\Home\Lib\Action\V2Action.class.php ç¬¬ 40 è¡Œ.
+NOTIC: [2] SoapClient::SoapClient() [<a href='soapclient.soapclient'>soapclient.soapclient</a>]: I/O warning : failed to load external entity &quot;http://schemas.xmlsoap.org/soap/encoding/&quot; C:\wamp\www\thinkphp\Home\Lib\Action\V2Action.class.php ç¬¬ 40 è¡Œ.
+
+[ 2016-08-22T10:24:45+08:00 ] 127.0.0.1 /V2/uk/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001333s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001500s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+
+[ 2016-08-22T11:05:46+08:00 ] 127.0.0.1 /V2/uk
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001688s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001864s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+
+[ 2016-08-22T11:59:58+08:00 ] 127.0.0.1 /V2/uk
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001814s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002201s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+
+[ 2016-08-22T12:03:58+08:00 ] 127.0.0.1 /V2/export
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001175s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+

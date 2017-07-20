@@ -1,0 +1,8 @@
+[ 2016-04-07T09:24:31+08:00 ] 127.0.0.1 /V2/au
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002240s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002374s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+

@@ -1,0 +1,24 @@
+[ 2016-11-29T15:06:34+08:00 ] 127.0.0.1 /V2/coza
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002676s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003168s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003283s ]
+
+[ 2016-11-29T16:06:22+08:00 ] 127.0.0.1 /V2/coza
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001856s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002375s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003293s ]
+
+[ 2016-11-29T16:18:33+08:00 ] 127.0.0.1 /V2/coza
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016507s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017129s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011693s ]
+
