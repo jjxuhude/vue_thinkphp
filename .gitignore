@@ -60,3 +60,6 @@ typings/
 .settings
 */Runtime/*
 Home/Runtime
+Home/Runtime/*
+Home\Runtime
+Home\Runtime\*
