@@ -10,6 +10,7 @@ class PublicAction extends BaseAction {
 	
 	
     public function login(){
+        sleep(3);
 		$params=$this->getParams();
 		$name=$params['name'];
 		$password=$params['password'];
